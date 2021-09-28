@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arcgis-thirdMap</string>
+    <string name="change_basemap">切换底图</string>
+    <string name="close_ano">关闭路网</string>
+</resources>
